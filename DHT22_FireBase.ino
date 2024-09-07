@@ -22,7 +22,7 @@ DHT dht(DHTPIN, DHTTYPE);
 #define WIFI_PASSWORD "00000000"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyC9X_Cm8vCN7d1JeIHXpPTYwB-o-Vo0aZw"
+#define API_KEY "enter ur api key here"
 
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://espdb-6719a-default-rtdb.asia-southeast1.firebasedatabase.app/" 
